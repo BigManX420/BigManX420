@@ -1,21 +1,20 @@
 # 👋 Welcome to My GitHub
-Hi, I'm **[Your Name]**, a full-stack Web3 developer and founder of **Decentral Bros** — building powerful tools and ecosystems across the blockchain space.
+Hi, I'm **[BigManX]**, a  Web3 ethusiest and co-founder Of Sock City a web 3 gane being build on Solana learing to build on EVM with Decenteral bros but not official affiliated.
 ---
 ## 👨‍💻 About Me
-- 🛠️ 6+ years of experience in **Solidity**, **React**, **Vite**, **Hardhat** and **smart contract development**
-- ⚙️ Built dozens of **ERC-20**, **ERC-721**, **ERC-1155**, and staking contracts across **Ethereum**, **Base**, **Optimism**, and **Arbitrum**
-- 🔐 Focused on **Web3 security**, **tokenomics**, and building **trustless systems**
-- 🧠 Live instructor for Web3 coding workshops & blockchain onboarding
-- 💼 Founder of DBRO — launching real utility with **stablecoins**, **on-chain payments**, and **NFT ecosystems**
+- 🛠️  just starting with  **Solidity**, **React**, **Vite**, **Hardhat** **tailwindCSS** and **smart contract development**
+- ⚙️ Took my first Class with Decenteral bros which sparked a life long passion for development 
+- 🔐 Focused on **Web3 IRL utility**, **tokenomics**, and  **Gamefi**
+- 🧠 Novcie Student learn to inovate in the blockchain space hopeing to provide IRL utility and Transission
+- 💼 Co-Founder of SockCity and intern for PetRockStudios LLC
 ---
 ## 🚀 Recent Projects
-- **PayBlock** – Stripe meets Web3: deploy smart contracts, accept ETH or cards 
-- **USDB Stablecoin** – 1:1 USDC-backed stable on Base with full ecosystem integration 
-- **Corridor Bridge** – Secure bridge between Base ↔ Abstract chain with signature verification 
-- **DBRO Tools** – Token-gated dashboard, bots, and live build utilities
+- BigMans Portal is my landing page and first Homage collection along with mmy first token gated page and wallet connections
+- I am the Co-Foundeer Of SockCity and the SockPuppetsCollection 1 on solana a gamefi project I worked on tokenomics and allocations mostly
+
 ---
 ## 🌐 Connect with Me
-- Website: [decentralbros.xyz](https://decentralbros.xyz) 
+- Website: TBD
 - Twitter: [@YourHandle](https://twitter.com/YourHandle) 
 - Email: you@yourdomain.xyz
 ---
